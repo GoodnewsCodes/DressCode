@@ -15,3 +15,20 @@
 1. Clone the repo:  
    ```bash  
    git clone https://github.com/yourusername/DressCode.git  
+Install dependencies:
+
+bash
+npm install  
+Run locally:
+
+bash
+npm start  
+🛠️ Tech Stack
+Frontend: React.js + Chroma.js (color calculations)
+
+Styling: CSS Modules
+
+Hosting: Vercel (free tier)
+
+📜 License
+MIT © 2024 [Goodnews Anwana]
